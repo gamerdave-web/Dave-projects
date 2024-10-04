@@ -1,0 +1,30 @@
+.container{
+    height: 400px;
+    width: 550px;
+    padding: auto;
+    margin: auto;
+    margin-top: 5%;
+    text-align: center;
+    border: 5px;
+    border-radius: 7px;
+    background-color: rgb(89, 202, 250);
+    box-shadow: 3px 2px 2px 3px aliceblue;
+    float: Middle;
+}
+.box{
+    height: 50px;
+    width: 500px;
+    border: 5px;
+    border-radius: 7px;
+}
+.sign{
+    margin-top: 5%;
+}
+button{
+    height: 50px;
+    width: 500px;
+    border: 5px;
+    border-radius: 7px;
+    background-color: rgba(250, 74, 74, 0.887);
+}
+

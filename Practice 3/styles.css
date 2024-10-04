@@ -1,0 +1,104 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.sign{
+    text-align: center;
+    font-weight: 400;
+}
+
+.ptag{
+    font-weight: 100;
+    font-size: 10px;
+    color: gray;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.buttoncontainer{
+    text-align: center;
+}
+
+.button1{
+    background-color: white;
+    margin: 1px;
+    padding: 5px 10px;
+    border: 1px solid gray;
+    border-radius: 8px;
+    width: 250px;
+    height: 30px;
+}
+
+.button2{
+    background-color: white;
+    margin: 1px;
+    padding: 5px 10px;
+    border: 1px solid gray;
+    border-radius: 8px;
+    width: 250px;
+    height: 30px;
+}
+
+.seperator{
+    display: flex;
+    align-items: center;
+    text-align: center;
+    margin: 20px 0;
+}
+
+.seperator hr {
+    flex: 1;
+    border: none;
+    border-top: 1px solid #ccc; 
+    margin: 0 10px;
+}
+
+.seperator span {
+    padding: 0 10px;
+    color: #666;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.left-rule{
+    margin-right: 10px;
+}
+
+.right-rule{
+    margin-left: 10px;
+}
+.box{
+    width: 250px;
+    height: 30px;
+    border: 1px solid gray;
+    border-radius: 3px;
+}
+.checkbox{
+    width: auto;
+    height: auto;
+}
+.button3{
+    background-color: rgb(78, 231, 31);
+    margin: 1px;
+    padding: 5px 10px;
+    border: 1px solid gray;
+    border-radius: 8px;
+    width: 100px;
+    height: 30px;
+    text-align: center;
+}
+.gg{
+    text-align: center;
+}
+.nt{
+    text-align: center;
+}
+.ff{
+    text-align: center;
+}
+.ee{
+    text-align: right;
+}
+.ww{
+    text-align: center;
+}

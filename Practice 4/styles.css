@@ -1,0 +1,43 @@
+body{
+    background: linear-gradient(to bottom, lightgreen, white);
+    height: 200vh;
+    margin: 5%;
+    margin-top: 10%;
+}
+.container{
+    background-color: white;
+    width: 400px;
+    height: 500px;
+    margin: auto;
+    padding: auto;
+    text-align: center;
+    border-radius: 6px;
+    box-shadow: white;
+}
+h2{
+    font-family: 'Times New Roman', Times, serif;
+    color: blue;
+    margin-top: 5%;
+}
+.box{
+    width: 350px;
+    height: 50px;
+    border: 1px solid rgb(124, 124, 124);
+    border-radius: 3px rgb(255, 252, 252);
+}
+div{
+    margin-right: 60%;
+}
+button{
+    width: 100px;
+    height: 30px;
+    background-color: greenyellow;
+    border: none;
+    border-radius: 6px;
+}
+.Sign{
+    color: rgb(25, 24, 24);
+    text-decoration: none;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+}
